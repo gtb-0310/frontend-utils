@@ -1,6 +1,6 @@
 {
   "name": "@gtb-0310/filter-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to manage filters and reusable features",
   "main": "src/FilterManager.js",
   "repository": {
@@ -8,7 +8,11 @@
     "url": "git+https://github.com/gtb-0310/frontend-utils.git"
   },
   "scripts": {},
-  "keywords": ["filters", "reusable", "library"],
+  "keywords": [
+    "filters",
+    "reusable",
+    "library"
+  ],
   "author": "gtb-0310",
   "license": "MIT"
 }
