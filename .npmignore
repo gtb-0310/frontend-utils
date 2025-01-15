@@ -1,3 +1,4 @@
+*.tgz
 package/
 filter-lib-*.tgz
 node_modules/
