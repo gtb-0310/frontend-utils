@@ -1,6 +1,6 @@
 {
   "name": "@gtb-0310/filter-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library to manage filters and reusable features",
   "main": "src/FilterManager.js",
   "repository": {
