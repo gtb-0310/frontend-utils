@@ -1,0 +1,10 @@
+{
+  "name": "filter-lib",
+  "version": "1.0.0",
+  "description": "A library to manage filters and reusable features",
+  "main": "src/FilterManager.js",
+  "scripts": {},
+  "keywords": ["filters", "reusable", "library"],
+  "author": "gtb-0310",
+  "license": "MIT"
+}
