@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A library to manage filters and reusable features",
   "main": "src/FilterManager.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtb-0310/frontend-utils.git"
+  },
   "scripts": {},
   "keywords": ["filters", "reusable", "library"],
   "author": "gtb-0310",
